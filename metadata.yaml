@@ -1,4 +1,8 @@
 _repo: Deutsche-Humoristen-Zweiter-Band_47318
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47318-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Zschokke, Heinrich
@@ -32,6 +36,8 @@ creator:
     - http://de.wikipedia.org/wiki/Clemens_Brentano
     - http://en.wikipedia.org/wiki/Clemens_Brentano
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47318#Deutsche-Humoristen-Zweiter-Band
 gutenberg_issued: '2014-11-09'
 gutenberg_type: Text
 identifiers:
